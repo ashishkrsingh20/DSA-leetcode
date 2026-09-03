@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0015-3sum) |
+| [0204-count-primes](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0204-count-primes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -39,4 +40,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+## Math
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0204-count-primes) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
