@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0141-linked-list-cycle](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0141-linked-list-cycle) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0141-linked-list-cycle) |
 | [0771-jewels-and-stones](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0771-jewels-and-stones) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## String
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0141-linked-list-cycle) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Prefix Sum
@@ -83,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/3904-smallest-stable-index-ii) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
