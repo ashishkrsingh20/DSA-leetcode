@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0015-3sum) |
+| [0120-triangle](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0120-triangle) |
 | [0204-count-primes](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0204-count-primes) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3903-smallest-stable-index-i](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0120-triangle](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0120-triangle) |
 ## Manacher
 |  |
 | ------- |
