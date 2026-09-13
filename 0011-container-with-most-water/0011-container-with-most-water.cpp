@@ -17,6 +17,6 @@ public:
                 right--;
             }
         }
-        return ans;
+        return (int)ans;
     }
 };
