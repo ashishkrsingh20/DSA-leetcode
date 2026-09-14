@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0204-count-primes) |
+| [0836-rectangle-overlap](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0836-rectangle-overlap) |
 | [3870-count-commas-in-range](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/3871-count-commas-in-range-ii) |
 ## Enumeration
@@ -105,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0011-container-with-most-water) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
