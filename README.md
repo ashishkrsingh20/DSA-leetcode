@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0771-jewels-and-stones](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0771-jewels-and-stones) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0771-jewels-and-stones](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0771-jewels-and-stones) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Dynamic Programming
 |  |
 | ------- |
