@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0204-count-primes) |
+| [0263-ugly-number](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0263-ugly-number) |
 | [0836-rectangle-overlap](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0836-rectangle-overlap) |
 | [3870-count-commas-in-range](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/3871-count-commas-in-range-ii) |
