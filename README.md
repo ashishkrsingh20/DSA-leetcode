@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0058-length-of-last-word) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0771-jewels-and-stones](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0771-jewels-and-stones) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Dynamic Programming
@@ -143,10 +144,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0022-generate-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Stack
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0234-palindrome-linked-list) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
