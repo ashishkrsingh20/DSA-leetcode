@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0015-3sum) |
 | [0120-triangle](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0120-triangle) |
 | [0204-count-primes](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0204-count-primes) |
+| [0605-can-place-flowers](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0605-can-place-flowers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3903-smallest-stable-index-i](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/3904-smallest-stable-index-ii) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0011-container-with-most-water) |
+| [0605-can-place-flowers](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0605-can-place-flowers) |
 ## Geometry
 |  |
 | ------- |
