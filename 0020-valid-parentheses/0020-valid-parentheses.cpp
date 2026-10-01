@@ -1,0 +1,20 @@
+class Solution {
+public:
+    bool isValid(string s) {
+        unordered_map<char,char> bracket_map = {
+            {')','('},{']','['},{'}','{'}
+        };
+        stack<char> st;
+        for(char c : s){
+            if(bracket_map.count(c)){
+                if(st.empty() || st.top() != bracket_map[c]){
+                    return false;
+                }
+                st.pop();
+            }else{
+                st.push(c);
+            }
+        }
+        return st.empty();
+    }
+};
