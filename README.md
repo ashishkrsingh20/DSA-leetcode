@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0605-can-place-flowers) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3903-smallest-stable-index-i](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/3904-smallest-stable-index-ii) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0015-3sum) |
 | [0148-sort-list](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0148-sort-list) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Geometry
 |  |
 | ------- |
@@ -202,4 +205,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0301-remove-invalid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
