@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3903-smallest-stable-index-i](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/3904-smallest-stable-index-ii) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0204-count-primes) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
 |  |
