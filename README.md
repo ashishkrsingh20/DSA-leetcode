@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0263-ugly-number) |
 | [0836-rectangle-overlap](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0836-rectangle-overlap) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/3871-count-commas-in-range-ii) |
 ## Enumeration
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Geometry
 |  |
