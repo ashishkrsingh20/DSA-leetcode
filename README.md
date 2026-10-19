@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0148-sort-list) |
 | [0905-sort-array-by-parity](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Heap (Priority Queue)
 |  |
