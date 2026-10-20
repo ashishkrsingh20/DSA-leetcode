@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0061-rotate-list) |
@@ -214,10 +215,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0148-sort-list) |
 ## Longest Increasing Subsequence
 |  |
@@ -235,9 +238,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
