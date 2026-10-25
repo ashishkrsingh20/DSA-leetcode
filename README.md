@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0605-can-place-flowers) |
 | [0905-sort-array-by-parity](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [1254-number-of-closed-islands](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/1254-number-of-closed-islands) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0301-remove-invalid-parentheses) |
+| [1254-number-of-closed-islands](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/1254-number-of-closed-islands) |
 ## Binary Search
 |  |
 | ------- |
@@ -255,4 +257,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/1254-number-of-closed-islands) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/1254-number-of-closed-islands) |
+## Matrix
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
