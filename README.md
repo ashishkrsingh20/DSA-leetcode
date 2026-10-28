@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0263-ugly-number) |
+| [0371-sum-of-two-integers](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0371-sum-of-two-integers) |
 | [0836-rectangle-overlap](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0836-rectangle-overlap) |
 | [2409-count-days-spent-together](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0371-sum-of-two-integers](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0371-sum-of-two-integers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Tournament Sort
