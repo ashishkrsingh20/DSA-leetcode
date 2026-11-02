@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0204-count-primes) |
 | [0334-increasing-triplet-subsequence](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0605-can-place-flowers](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0605-can-place-flowers) |
 | [0905-sort-array-by-parity](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0922-sort-array-by-parity-ii) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0015-3sum) |
 | [0148-sort-list](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0148-sort-list) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0905-sort-array-by-parity](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0263-ugly-number) |
 | [0371-sum-of-two-integers](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0371-sum-of-two-integers) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0836-rectangle-overlap) |
 | [2409-count-days-spent-together](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
