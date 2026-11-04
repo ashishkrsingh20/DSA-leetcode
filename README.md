@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/1254-number-of-closed-islands) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1472-design-browser-history](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/1472-design-browser-history) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1472-design-browser-history](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/1472-design-browser-history) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Prefix Sum
 |  |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1472-design-browser-history](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/1472-design-browser-history) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Divide and Conquer
@@ -283,4 +286,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Design
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/1472-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
