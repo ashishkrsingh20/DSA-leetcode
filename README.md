@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0042-trapping-rain-water) |
 | [0120-triangle](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0120-triangle) |
 | [0204-count-primes](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0204-count-primes) |
 | [0334-increasing-triplet-subsequence](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0334-increasing-triplet-subsequence) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0141-linked-list-cycle) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0042-trapping-rain-water) |
 | [0120-triangle](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0120-triangle) |
 | [0678-valid-parenthesis-string](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Manacher
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0856-score-of-parentheses) |
@@ -298,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/1472-design-browser-history) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ashishkrsingh20/DSA-leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
